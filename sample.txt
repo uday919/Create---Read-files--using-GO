@@ -1,0 +1,1 @@
+Hello, This is Uday and iam a Golang Developer. This is a sample file created by me and this program is about read and create files using Golang
